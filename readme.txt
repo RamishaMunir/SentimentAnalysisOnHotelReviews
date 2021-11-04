@@ -19,3 +19,7 @@ https://github.com/RamishaMunir/SentimentAnalysisOnHotelReviews/blob/main/requir
  
  * Configuration *
 env.py file contains the variable that should be set before running the applications. Such variables varry user to user e.g username & password to connect with Database 
+
+*How to Run" 
+For the computations and storing data into the data base, the files (analyzers, points_6_9_13, points 7_8_10) should be run separately. 
+To visualize the outputs using UI, run UI.py file
